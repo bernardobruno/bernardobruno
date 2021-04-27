@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Bruno Bernardo and I'm a lawyer challenging myself into Data Science. 
+- 👋 Hi, my name is Bruno Bernardo and I'm a lawyer challenging myself into Data Science. 
 - 👀 Compliance.
 - 🌱 I’m currently learning Data Science and Data Analysis. 
 - 💞️ I’m looking to collaborate on Python.
